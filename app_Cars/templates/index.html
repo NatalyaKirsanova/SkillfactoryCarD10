@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<head>
+    <link rel = "stylesheet" type = "text/css" href='{% static "styles.css" %}' >
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Автомобили</h1>
+<table border="1" class="col-8">
+    {% for c in object_list %}
+    <tr>
+        <td>{{ c.id }}</td>
+        <td>{{ c.manufacturer }}</td>
+        <td>{{ c.modelCar }}</td>
+        <td>{{ c.year_manufacture }}</td>
+<!--        get_FOO_display()-->
+        <td>{{ c.get_transmission_display }}</td>
+        <td>{{ c.color }}</td>
+
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+</body>
+</html>
