@@ -9,6 +9,13 @@
 <body>
 <h1>Автомобили</h1>
 <table border="1" class="col-8">
+
+    <th>Номер</th>
+    <th>Производитель</th>
+    <th>Модель</th>
+    <th>Год выпуска</th>
+    <th>Коробка передач</th>
+    <th>Цвет</th>
     {% for c in object_list %}
     <tr>
         <td>{{ c.id }}</td>
