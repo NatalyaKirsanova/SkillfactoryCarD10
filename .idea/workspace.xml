@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98993ff-c84f-432d-8b61-497c08a00c03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app_Cars/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/models.py" afterDir="false" />
+    <list default="true" id="d98993ff-c84f-432d-8b61-497c08a00c03" name="Default Changelist" comment="Заголовок таблицы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_Cars/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +29,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jGpdvM1SL4m4AHiGgWEPjkOo7f" />
@@ -32,7 +56,38 @@
       <option name="presentableId" value="Default" />
       <updated>1603440373451</updated>
     </task>
+    <task id="LOCAL-00001" summary="Заголовок таблицы">
+      <created>1603460696098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603460696099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Заголовок таблицы">
+      <created>1603460716336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603460716336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Заголовок таблицы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заголовок таблицы" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="254" key="FileChooserDialogImpl" timestamp="1603460096261">
@@ -43,5 +98,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="559" y="144" key="SettingsEditor/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603460087451" />
+    <state x="501" y="322" key="Vcs.Push.Dialog.v2" timestamp="1603460983677">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="501" y="322" key="Vcs.Push.Dialog.v2/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603460983677" />
+    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603460663319">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603460663319" />
   </component>
 </project>
