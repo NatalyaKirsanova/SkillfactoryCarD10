@@ -20,13 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98993ff-c84f-432d-8b61-497c08a00c03" name="Default Changelist" comment="Заголовок таблицы">
+      <change afterPath="$PROJECT_DIR$/app_Cars/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_Cars/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_Cars/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_Cars/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_Cars/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/colorfield/colorfield.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/colorfield/colorfield.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -70,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603460716336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Заголовок таблицы">
+      <created>1603706535155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603706535155</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,9 +121,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="501" y="322" key="Vcs.Push.Dialog.v2/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603460983677" />
-    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603460663319">
+    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603706521016">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603460663319" />
+    <state x="726" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.0.1680.1010/0.0.1920.1160@0.0.1920.1160" timestamp="1603706521016" />
   </component>
 </project>

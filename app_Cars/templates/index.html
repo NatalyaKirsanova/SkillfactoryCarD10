@@ -8,6 +8,14 @@
 </head>
 <body>
 <h1>Автомобили</h1>
+<form action="" method="get">
+  <table>
+      <td> <input type="submit" value="search"> </td>
+      <th > {{ form.as_p }} </th>
+
+   </table>
+</form>
+
 <table border="1" class="col-8">
 
     <th>Номер</th>
@@ -16,17 +24,14 @@
     <th>Год выпуска</th>
     <th>Коробка передач</th>
     <th>Цвет</th>
-    {% for c in object_list %}
+    {% for c in cars %}
     <tr>
         <td>{{ c.id }}</td>
         <td>{{ c.manufacturer }}</td>
         <td>{{ c.modelCar }}</td>
         <td>{{ c.year_manufacture }}</td>
-<!--        get_FOO_display()-->
         <td>{{ c.get_transmission_display }}</td>
         <td>{{ c.color }}</td>
-<!--        c.get_transmission_display-->
-
     </tr>
     {% endfor %}
 </table>

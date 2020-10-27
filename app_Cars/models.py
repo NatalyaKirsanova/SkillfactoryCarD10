@@ -4,6 +4,7 @@ from colorfield.fields import ColorField
 
 # Create your models here.
 class Car(models.Model):
+    # object = None
     TRANSMISSION_CHOICES = (
         (0, ''),
         (1, 'mechanics'),
@@ -17,8 +18,8 @@ class Car(models.Model):
     # colormodel=models.CharField(max_lenght=256)
     color = ColorField( default='#FF0000' )
 
-    def __str__(self):
-        return self.manufacturer
+    # def __str__(self):
+    #     return self.manufacturer
 
 
 
