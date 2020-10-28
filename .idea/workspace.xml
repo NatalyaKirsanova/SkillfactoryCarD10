@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98993ff-c84f-432d-8b61-497c08a00c03" name="Default Changelist" comment="Заголовок таблицы">
-      <change afterPath="$PROJECT_DIR$/app_Cars/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_Cars/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_Cars/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_Cars/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_Cars/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_Cars/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_Cars/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/colorfield/colorfield.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/colorfield/colorfield.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

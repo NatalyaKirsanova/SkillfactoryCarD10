@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:text-align="http://www.w3.org/1999/xhtml">
 {% load static %}
 <head>
     <link rel = "stylesheet" type = "text/css" href='{% static "styles.css" %}' >
@@ -8,14 +8,17 @@
 </head>
 <body>
 <h1>Автомобили</h1>
-<form action="" method="get">
-  <table>
-      <td> <input type="submit" value="search"> </td>
-      <th > {{ form.as_p }} </th>
 
-   </table>
+<form action="" method="get">
+    <table>
+    <tr>
+      <td> {{ form.as_p }} </td>
+      <th> <input type="submit" value="поиск"> </th>
+    </tr>
+    </table>
 </form>
 
+<br>
 <table border="1" class="col-8">
 
     <th>Номер</th>
